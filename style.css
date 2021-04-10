@@ -1,0 +1,29 @@
+h1 {
+    color: #b7ff26;
+    padding-left: 250px
+}
+body{
+    background-color: #c9a2e0;
+}
+p{
+    color:yellow;
+  }
+   li{
+       color:cyan ;
+   }
+  img{
+      border:2px solid #000000;
+      display: flexbox;
+      border-radius: 50px;
+  }
+  h1{
+      background-color: #a760c4;
+  }
+  .origami{
+      border-radius: 20px;
+      background-color: #b300ff;
+      padding:30px;
+      margin:25px;
+      width:660px; 
+
+  }
